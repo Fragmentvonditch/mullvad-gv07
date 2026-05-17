@@ -1,4 +1,4 @@
-
+Elite Mullvad Client | DNS leak protection + kill switch is the best Mullvad client with DNS leak protection and kill switch. Secure and optimized.
 
 
 
